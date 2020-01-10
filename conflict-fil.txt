@@ -1,0 +1,2 @@
+conflict b2
+test conflict
